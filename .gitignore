@@ -1,0 +1,3 @@
+# Don't add node modules in git
+node_modules/*
+node_modules

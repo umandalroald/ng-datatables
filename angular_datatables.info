@@ -1,0 +1,4 @@
+name = AngularJS Datatables
+description = A simple module that integrates angularjs datatables.
+version = 7.x-1.0
+core = 7.x
